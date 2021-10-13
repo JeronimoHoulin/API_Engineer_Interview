@@ -1,4 +1,4 @@
-Thanks for your interest in this position with Gordian Software's API Integration team.
+Thanks for your interest in this position with XXX's API Integration team.
 
 The next step in the interview process is to complete the exercise below. This is a practical challenge similar to real problems you would solve as part of this team.
 
