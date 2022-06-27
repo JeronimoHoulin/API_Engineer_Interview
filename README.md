@@ -1,4 +1,4 @@
-#XML to JSON format interview exam question.
+XML to JSON format interview exam question.
 
 Thanks for your interest in this position with XXX's API Integration team.
 
