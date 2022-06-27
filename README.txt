@@ -1,3 +1,5 @@
+#XML to JSON format interview exam question.
+
 Thanks for your interest in this position with XXX's API Integration team.
 
 The next step in the interview process is to complete the exercise below. This is a practical challenge similar to real problems you would solve as part of this team.
@@ -13,7 +15,7 @@ Input: python seatmap_parser.py [FILENAME]
 Output: FILENAME_parsed.json
 
 Description:
-Write a python script that parses the XML seatmap files included in this folder (seatmap1.xml, seatmap2.xml) into a standardized JSON format that outputs the seatmap (by row) with the following properties at minimum:
+Write a python script that parses the XML seatmap files included in this folder (seatmap1.xml) into a standardized JSON format that outputs the seatmap (by row) with the following properties at minimum:
 	- Seat/Element type (Seat, Kitchen, Bathroom, etc)	"NA"
 	- Seat id (17A, 18A) 					"SeatNumber"
 	- Seat price 						"CodeContext"
